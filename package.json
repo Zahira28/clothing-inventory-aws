@@ -1,0 +1,14 @@
+{
+  "name": "clothing-inventory-aws",
+  "version": "1.0.0",
+  "description": "Clothing store inventory API (EC2 + RDS MySQL)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
