@@ -8,7 +8,7 @@ A simple inventory API for a clothing store (name, material, size, brand, price,
 
 ## Architecture
 
-![Architecture Diagram](docs/Architecture Diagram AWS Inventory.png)
+![Architecture Diagram](docs/Architecture%20Diagram%20AWS%20Inventory.png)
 
 ## API
  
