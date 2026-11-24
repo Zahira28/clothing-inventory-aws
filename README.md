@@ -19,3 +19,18 @@ A simple inventory API for a clothing store (name, material, size, brand, price,
 | Update | `PUT /clothes/{id}` |
 | Delete | `DELETE /clothes/{id}` |
 | Health check | `GET /health` |
+
+## 7. Repository Structure
+
+```
+clothing-inventory-aws/
+├── README.md
+├── .gitignore
+├── .env.example
+├── docs/
+│   └── architecture.png
+├── db/
+│   └── schema.sql
+└── src/                   # backend starter code
+    └── index.js
+```
