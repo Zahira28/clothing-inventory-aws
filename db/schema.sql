@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS clothes (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100) NOT NULL,
+  material VARCHAR(50),
+  size VARCHAR(10),
+  brand VARCHAR(50),
+  price INT,
+  stock INT DEFAULT 0
+);
