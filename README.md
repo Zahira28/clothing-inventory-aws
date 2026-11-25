@@ -20,7 +20,7 @@ A simple inventory API for a clothing store (name, material, size, brand, price,
 | Delete | `DELETE /clothes/{id}` |
 | Health check | `GET /health` |
 
-## 7. Repository Structure
+## Repository Structure
 
 ```
 clothing-inventory-aws/
